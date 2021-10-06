@@ -1,4 +1,4 @@
-# 레벨3 - 팀 프로젝트
+# ✨ 레벨3 - 팀 프로젝트
 
 ## [GPU 내껀데](https://github.com/woowacourse-teams/2021-gpu-is-mine)
 - 딥러닝 학습 자동화 서비스
@@ -14,7 +14,7 @@
 - Submodule
 
 ---
-# 서비스근로
+# ✨ 서비스근로
 
 ## [우아한테크코스 지원서비스](https://github.com/woowacourse/service-apply)
 - 우아한테크코스 지원부터 최종 합격까지 관리 서비스
@@ -39,10 +39,9 @@
 - 추후 관리자페이지 react 전환을 위한 API 작업
 
 ---
+---
 # 레벨4
-Http 서버 구현, MVC 프레임워크 구현, JDBC Template 구현
-
-# 미션 목록
+- Http 서버 구현, MVC 프레임워크 구현, JDBC Template 구현
 - 코드로 구현하며 추상화 된 동작방식을 이해
 
 ## [http 서버](https://github.com/knae11/woowalevel4/tree/http)
@@ -76,9 +75,7 @@ Http 서버 구현, MVC 프레임워크 구현, JDBC Template 구현
 ---
 
 # 레벨2
-Spring 입문, Mock 테스트, 통합테스트, Acceptance 테스트, 배포인프라
-
-# 미션 목록
+- Spring 입문, Mock 테스트, 통합테스트, Acceptance 테스트, 배포인프라
 - Java 8, Spring 기반의 미션을 진행 
 
 ## [체스 jwp](https://github.com/knae11/woowalevel2/tree/jwp-chess)
@@ -119,9 +116,7 @@ Spring 입문, Mock 테스트, 통합테스트, Acceptance 테스트, 배포인�
 ---
 
 # 레벨1
-java 8, 객체지향, 테스트, TDD, 코드리뷰, 페어프로그래밍
-
-# 미션 목록
+- java 8, 객체지향, 테스트, TDD, 코드리뷰, 페어프로그래밍
 - Java 8 기반의 콘솔출력 기반의 미션을 진행 
 
 ## [자동차경주게임](https://github.com/knae11/woowalevel1/tree/racing-car)
