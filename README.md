@@ -1,7 +1,42 @@
-# 레벨3: GPU 내껀데
+# 레벨3 - 팀 프로젝트
+
+## [GPU 내껀데](https://github.com/woowacourse-teams/2021-gpu-is-mine)
+- 딥러닝 학습 자동화 서비스
+- [Team TechLogs](https://github.com/woowacourse-teams/2021-gpu-is-mine#techlogs)
+- [레벨3 개인 블로그 정리](https://nauni.tistory.com/category/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/%EB%A0%88%EB%B2%A83)
+- [레벨4 개인 블로그 정리](https://nauni.tistory.com/category/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/%EB%A0%88%EB%B2%A84)
+
+## 백엔드 사용기술
+- Java, SpringBoot, JPA
+- AWS EC2, Jenkins, nginx, Docker
+- MariaDB, H2, Flyway(DB migration)
+- ElasticStack
+- Submodule
 
 ---
-# 서비스근로: 우아한테크코스 지원서비스
+# 서비스근로
+
+## [우아한테크코스 지원서비스](https://github.com/woowacourse/service-apply)
+- 우아한테크코스 지원부터 최종 합격까지 관리 서비스
+- 작년에 배포되어 사용된 서비스를 유지 및 보수
+- 2021.10.22~ 우아한테크코스 4기 지원 시작
+- [코드리뷰 문화](https://github.com/woowacourse/service-apply/pulls?q=is%3Aopen+is%3Apr)
+
+## 백엔드 사용기술
+- Kotlin, SpringBoot, JPA
+- MySQL, H2, Flyway(DB migration)
+- Vaadin
+
+## 백엔드 추가 및 개선기능
+- Mockito 테스트코드 MockK로 전환
+- 유효한 이메일 인증
+- 회원과 지원자 분리
+- 모집삭제 정책 구현
+- 이메일 발송 기능
+- 과제 관리 기능
+- csv 파일로 평가 관리 기능
+- 부정행위자 관리 기능
+- 추후 관리자페이지 react 전환을 위한 API 작업
 
 ---
 # 레벨4
