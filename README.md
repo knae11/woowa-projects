@@ -63,8 +63,18 @@
 ---
 ---
 # 레벨4
+- 리팩터링 미션
+- SQL tuning
 - Http 서버 구현, MVC 프레임워크 구현, JDBC Template 구현
 - 코드로 구현하며 추상화 된 동작방식을 이해
+
+## [리팩터링 미션](https://github.com/woowacourse/jwp-refactoring/tree/knae11)
+- (진행중 미션)
+- 기존 레거시 코드의 도메인을 파악하고 리팩터링을 위한 테스트 코드를 작성
+- JdbcTemplate, Dao, Domain으로 이루어진 코드를 JPA, DTO를 사용하여 리팩터링
+
+## [SQL tuning](https://github.com/knae11/sql-tuning/tree/knae11)
+- 요청 사항을 시간 제한 안으로 들어오도록 join 쿼리 작성 및 인덱싱 추가
 
 ## [http 서버](https://github.com/knae11/woowalevel4/tree/http)
 - http 요청을 읽고 해석하여 적절한 응답을 반환하는 기능 구현
